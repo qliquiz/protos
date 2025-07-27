@@ -1,4 +1,4 @@
-module github.com/qliquiz/protos
+module protos
 
 go 1.24
 
